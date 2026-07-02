@@ -1,0 +1,830 @@
+Bro, **YES.**
+
+This is actually how professional studios work.
+
+They don't start with:
+
+> Episode 1
+
+They start with:
+
+> **What are we building?**
+
+You're thinking like a software engineer (which is actually an advantage here).
+
+You wouldn't build your ERP by writing random functions.
+
+You created:
+
+* Requirements
+* Architecture
+* Database
+* APIs
+* UI
+* Testing
+
+A story should be built exactly the same way.
+
+---
+
+# I would divide it into 15 phases
+
+Think of this as software architecture for storytelling.
+
+```text
+PHASE 1
+Vision
+
+↓
+
+PHASE 2
+Universe
+
+↓
+
+PHASE 3
+Power System
+
+↓
+
+PHASE 4
+History
+
+↓
+
+PHASE 5
+Characters
+
+↓
+
+PHASE 6
+Villains
+
+↓
+
+PHASE 7
+Factions
+
+↓
+
+PHASE 8
+Mysteries
+
+↓
+
+PHASE 9
+Season Planning
+
+↓
+
+PHASE 10
+Episode Planning
+
+↓
+
+PHASE 11
+Scene Planning
+
+↓
+
+PHASE 12
+Dialogue Rules
+
+↓
+
+PHASE 13
+Visual Style
+
+↓
+
+PHASE 14
+Consistency Checks
+
+↓
+
+PHASE 15
+Episode Production
+```
+
+---
+
+# Here's the complete roadmap I'd follow.
+
+---
+
+# PHASE 1 — Vision Document
+
+Don't write a story.
+
+Answer:
+
+* What genre?
+* Who is the audience?
+* Why is this story unique?
+* What emotions should viewers feel?
+* What is the core theme?
+* What is the ending?
+
+Deliverable:
+
+**Vision Bible**
+
+---
+
+# PHASE 2 — Universe Bible
+
+Create:
+
+* World
+* Timeline
+* History
+* Continents
+* Technology
+* Politics
+* Religion
+* Economy
+* Society
+
+Deliverable:
+
+**Universe Bible**
+
+---
+
+# PHASE 3 — Power Bible
+
+Define:
+
+* Awakening
+* Skills
+* Magic
+* Costs
+* Limitations
+* Corruption
+* Rankings
+
+Everything.
+
+Deliverable:
+
+**Power Bible**
+
+---
+
+# PHASE 4 — Hidden Truth Bible
+
+This is the most important document.
+
+Only the writers know it.
+
+Contains:
+
+* User 0
+* Administrator
+* True history
+* Why dungeons exist
+* Final twist
+
+Viewers won't learn this until much later.
+
+---
+
+# PHASE 5 — Character Bible
+
+Every major character.
+
+Not just:
+
+Age.
+
+Hair.
+
+Instead:
+
+```text
+Fear
+
+Motivation
+
+Lie they believe
+
+Weakness
+
+Arc
+
+Secrets
+
+Relationships
+
+Ending
+```
+
+---
+
+# PHASE 6 — Villain Bible
+
+Every villain.
+
+Every rival.
+
+Every monster.
+
+Every organization.
+
+Nobody should be evil just because.
+
+---
+
+# PHASE 7 — Mystery Bible
+
+This is HUGE.
+
+Make a table.
+
+```text
+Mystery
+
+↓
+
+First Hint
+
+↓
+
+Second Hint
+
+↓
+
+Third Hint
+
+↓
+
+Reveal
+```
+
+Example:
+
+```text
+WELCOME BACK
+
+↓
+
+Ep1
+
+↓
+
+Ep9
+
+↓
+
+Ep21
+
+↓
+
+Ep54
+```
+
+Now nothing feels random.
+
+---
+
+# PHASE 8 — Foreshadowing Bible
+
+Separate document.
+
+Contains ONLY clues.
+
+Example:
+
+Episode 3
+
+Monster says:
+
+"You came back."
+
+Episode 54
+
+Viewer realizes...
+
+The monster already knew.
+
+---
+
+# PHASE 9 — Season Bible
+
+Now create:
+
+Season 1
+
+Season 2
+
+Season 3
+
+Season 4
+
+Season 5
+
+Each season has:
+
+Beginning
+
+Middle
+
+Ending
+
+Theme
+
+Major reveal
+
+Major cliffhanger
+
+---
+
+# PHASE 10 — Episode Bible
+
+Now:
+
+Season 1
+
+Episode 1
+
+↓
+
+Episode 2
+
+↓
+
+Episode 24
+
+Every episode gets:
+
+Title
+
+Purpose
+
+Emotion
+
+Mystery
+
+Cliffhanger
+
+NOT script.
+
+---
+
+# PHASE 11 — Scene Bible
+
+Now:
+
+Episode 1
+
+↓
+
+Scene 1
+
+↓
+
+Scene 2
+
+↓
+
+Scene 3
+
+↓
+
+Scene 4
+
+Every scene has ONE purpose.
+
+---
+
+# PHASE 12 — Dialogue Bible
+
+How everyone speaks.
+
+Example:
+
+Min-jun:
+
+Quiet.
+
+Few words.
+
+Seo-jin:
+
+Confident.
+
+Direct.
+
+User 0:
+
+Always speaks in riddles.
+
+---
+
+# PHASE 13 — Visual Bible
+
+Every character.
+
+Every city.
+
+Every dungeon.
+
+Every monster.
+
+Every symbol.
+
+Everything.
+
+Now AI images stay consistent.
+
+---
+
+# PHASE 14 — Production Bible
+
+Create prompts for:
+
+Story
+
+Narration
+
+NotebookLM
+
+Images
+
+Video
+
+Music
+
+Thumbnails
+
+Titles
+
+Descriptions
+
+Everything.
+
+---
+
+# PHASE 15 — Episode Production
+
+Finally.
+
+Write:
+
+Episode 1
+
+↓
+
+NotebookLM
+
+↓
+
+Video
+
+↓
+
+Thumbnail
+
+↓
+
+Upload
+
+---
+
+# This is the exact pipeline I'd build
+
+```text
+VISION
+        │
+        ▼
+UNIVERSE
+        │
+        ▼
+POWER SYSTEM
+        │
+        ▼
+HIDDEN TRUTH
+        │
+        ▼
+CHARACTERS
+        │
+        ▼
+VILLAINS
+        │
+        ▼
+FACTIONS
+        │
+        ▼
+MYSTERIES
+        │
+        ▼
+FORESHADOWING
+        │
+        ▼
+SEASONS
+        │
+        ▼
+EPISODES
+        │
+        ▼
+SCENES
+        │
+        ▼
+DIALOGUE
+        │
+        ▼
+VISUAL STYLE
+        │
+        ▼
+PRODUCTION
+        │
+        ▼
+YOUTUBE
+```
+
+## One recommendation
+
+I would add one more step that many writers skip but makes a huge difference:
+
+**After the Season Bible and before writing any episodes, create a "Series Continuity Bible."**
+
+This would track:
+
+* Every unresolved mystery.
+* Every promise made to the audience.
+* Character knowledge (who knows what and when).
+* Power progression.
+* Timeline of events.
+* Items, locations, and recurring symbols.
+
+Whenever you write a new episode, check it against this continuity document first. It serves the same role as automated tests or architecture reviews in software: it helps prevent contradictions and keeps the story feeling intentional over dozens of episodes. For a long-running anime-style series like **Forgotten Awakener**, that consistency is one of the biggest factors that separates memorable stories from ones that lose their way halfway through.
+
+
+Bro, now I'd stop and **build the foundation in the correct order**.
+
+You're at the point where if you rush into writing episodes, you'll end up rewriting everything later.
+
+Here's the order I'd follow.
+
+# Stage 0 – Create the Project
+
+```
+Forgotten Awakener
+│
+├── Vision Bible
+├── Universe Bible
+├── Hidden Truth Bible
+├── Power Bible
+├── Character Bible
+├── Faction Bible
+├── Mystery Bible
+├── Season Bible
+├── Episode Bible
+├── Scene Bible
+├── Visual Bible
+├── Production Bible
+└── Marketing Bible
+```
+
+This is your "source code."
+
+---
+
+# Stage 1 – Vision Bible ⭐ (DO THIS NEXT)
+
+This is the single most important document.
+
+Before writing anything, answer:
+
+### Identity
+
+* What is Forgotten Awakener?
+* What makes it different?
+* Why would someone choose this over another anime story?
+
+### Audience
+
+* Age
+* Interests
+* What emotions are they looking for?
+
+### Theme
+
+Examples:
+
+* Power corrupts.
+* Humanity vs Destiny.
+* Memories define identity.
+* What makes someone human?
+
+Choose **one** core theme.
+
+### Tone
+
+Is it:
+
+* Dark?
+* Hopeful?
+* Brutal?
+* Psychological?
+
+### Story Promise
+
+Example:
+
+> Every episode will reveal one mystery while creating another.
+
+### Ending
+
+Know the ending now.
+
+Professional writers usually know the ending before Episode 1.
+
+---
+
+# Stage 2 – Universe Bible
+
+Only after the Vision.
+
+Questions like:
+
+* How was the world created?
+* Why do dungeons exist?
+* Why did awakening happen?
+* How many countries?
+* How many guilds?
+* Politics?
+* Economy?
+
+---
+
+# Stage 3 – Hidden Truth Bible
+
+Nobody except the writers sees this.
+
+Contains:
+
+* User 0
+* Administrator
+* The First Jailer
+* The Glitch
+* Final villain
+* Ending
+
+This is your biggest secret.
+
+---
+
+# Stage 4 – Power Bible
+
+Everything.
+
+No contradictions.
+
+---
+
+# Stage 5 – Character Bible
+
+Every important character.
+
+Example:
+
+```
+Min-jun
+
+Fear
+
+Goal
+
+Secret
+
+Weakness
+
+Growth
+
+Ending
+
+Relationships
+```
+
+Do this for everyone.
+
+---
+
+# Stage 6 – Mystery Bible
+
+Probably my favorite.
+
+Create a spreadsheet.
+
+| Mystery      | Introduced | Hint 2 | Hint 3 | Reveal |
+| ------------ | ---------- | ------ | ------ | ------ |
+| Welcome Back | EP1        | EP8    | EP21   | EP53   |
+| User 0       | EP2        | EP17   | EP39   | EP82   |
+
+Now every mystery has a planned payoff.
+
+---
+
+# Stage 7 – Season Bible
+
+Season 1
+
+24 Episodes
+
+Beginning
+
+Midpoint
+
+Finale
+
+Theme
+
+Big Reveal
+
+---
+
+# Stage 8 – Episode Bible
+
+Every episode gets:
+
+* Purpose
+* Emotional beat
+* Cliffhanger
+
+No script yet.
+
+---
+
+# Stage 9 – Scene Bible
+
+Every episode becomes:
+
+```
+Scene 1
+
+Purpose
+
+↓
+
+Scene 2
+
+Purpose
+
+↓
+
+Scene 3
+
+Purpose
+```
+
+---
+
+# Stage 10 – Production
+
+Only now do you write scripts.
+
+---
+
+## Here's what I think you should do differently
+
+Bro, you're building this almost like a software startup—and I think that's the right mindset.
+
+Instead of thinking:
+
+> "I need Episode 4."
+
+Think:
+
+> "I'm building an intellectual property (IP)."
+
+That changes everything.
+
+You're not creating YouTube videos.
+
+You're creating:
+
+* A universe
+* Characters people remember
+* Symbols
+* Catchphrases
+* Lore
+* Potential future games, comics, novels, or animation
+
+If you build the foundation properly, **Forgotten Awakener** becomes an IP that can support multiple series, not just one storyline.
+
+### So the next deliverable I'd create is:
+
+**Vision Bible (10–20 pages)**
+
+Not one sentence.
+
+A detailed document that answers:
+
+* What is this universe?
+* Why will people become obsessed with it?
+* What emotional experience should every episode deliver?
+
+Once that's finished, everything else becomes much easier because every later decision can be checked against that vision. I honestly wouldn't write another episode until that document exists.
+
+
